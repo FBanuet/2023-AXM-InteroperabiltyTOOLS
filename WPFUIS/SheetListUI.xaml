@@ -1,0 +1,51 @@
+﻿<Window x:Class="DATools.WPFUIS.SheetListUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DATools.WPFUIS"
+             mc:Ignorable="d" 
+        Background="Black"
+             Title="AXM Mansur || Sheet Issue Date" Height="550" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Porfavor Seleccione las Láminas Deseadas " HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Background="AliceBlue" FontSize="18"/>
+
+
+        <StackPanel Grid.Row="1">
+            <Label Content="Lista de Planos en el Modelo" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" FontWeight="ExtraBold"/>
+            <Button x:Name="btnGet" Content="GetSheets" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Height="26" Width="180" Click="btnGet_Click"/>
+            <ListBox x:Name="SheetList" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,10,10,10" SelectionMode="Multiple" ScrollViewer.VerticalScrollBarVisibility="Visible" MaxHeight="400">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="0,2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="150"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Text="{Binding SheetNumber}"/>
+                            <TextBlock Grid.Column="1" Text="{Binding Name}"/>
+                            
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                
+            </ListBox>
+
+        </StackPanel>
+
+        <Button x:Name="btnRun" Content="Run" HorizontalAlignment="Left" Margin="10,0,10,0" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="80" Click="btnRun_Click"/>
+        <Button x:Name="btnClose" Content="CloseAPP" HorizontalAlignment="Left" Margin="120,0,10,0" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="80" Click="btnClose_Click"/>
+        <Button x:Name="btnAll" Content="Select All" HorizontalAlignment="Left" Margin="240,0,0,0" Grid.Row="2" VerticalAlignment="Center" Height="26" Width="100" Click="btnSelect_All"/>
+    </Grid>
+
+</Window>
