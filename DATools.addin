@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Application">
+    <Name>DATools App</Name>
+    <Assembly>DATools.dll</Assembly>
+    <AddInId>98b529ae-45af-4195-87f3-83cabdc23c26</AddInId>
+    <FullClassName>DATools.Main</FullClassName>
+    <VendorId>DatArchitects</VendorId>
+    <VendorDescription>DatArchitects DAT.net</VendorDescription>
+  </AddIn>
+
+</RevitAddIns>

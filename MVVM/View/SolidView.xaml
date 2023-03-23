@@ -1,0 +1,34 @@
+﻿<Window x:Class="DATools.MVVM.View.SolidView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DATools.MVVM.View"
+             mc:Ignorable="d" 
+            Title="AXM Rebar3D View Manager"
+        FontFamily="Arial Narrow"
+        FontSize="16"
+        WindowStartupLocation="CenterOwner"
+             Height="287.197" Width="500">
+            
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="15">
+            <CheckBox Content="Set Solid In View" IsChecked="{Binding isCheckedSolid}"/>
+            <CheckBox Content="Set Unobscured In View" Margin="75 0 " IsChecked="{Binding isCheckedUnobscured}"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin=" 15" Grid.Row="1">
+            <Label Content="Métodos de Filtrado y Selección"/>
+            <ComboBox Width="250" Height="40" Margin="6 0 " SelectedIndex="{Binding selectedIndex}">
+                <ComboBoxItem Content="Todos Elementos en Vista"/>
+                <ComboBoxItem Content="Elementos Seleccionados"/>
+            </ComboBox>
+        </StackPanel>
+        <Button Content="Correr" Grid.Row="2" Height="40" Command="{Binding ButtonRun}"/>
+        
+    </Grid>
+</Window>

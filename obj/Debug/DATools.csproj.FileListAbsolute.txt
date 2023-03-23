@@ -1,0 +1,105 @@
+C:\Users\S-MK\source\repos\DAT\DATools\bin\Debug\DATools.dll
+C:\Users\S-MK\source\repos\DAT\DATools\bin\Debug\DATools.pdb
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.csproj.CoreCompileInputs.cache
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.dll
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.pdb
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.DATICONS.resources
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.csproj.GenerateResource.cache
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.csprojAssemblyReference.cache
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.TagWallLayersForm.resources
+C:\Users\S-MK\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.AddViewOnSheet.resources
+C:\Users\Admin\source\repos\DAT\DATools\bin\Debug\DATools.dll
+C:\Users\Admin\source\repos\DAT\DATools\bin\Debug\DATools.pdb
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.DATICONS.resources
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.AddViewOnSheet.resources
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.PrintParametersForm.resources
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.TagWallLayersForm.resources
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.dll
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.pdb
+C:\Users\Admin\source\repos\DAT\DATools\obj\Debug\DATools.UIForm.FilePathForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\bin\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\bin\Debug\DATools.pdb
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools_MarkupCompile.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools_MarkupCompile.lref
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.g.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.DATICONS.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.AddViewOnSheet.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.FilePathForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.PrintParametersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.TagSystemFamsLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.TagWallLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.GenerateResource.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.CoreCompileInputs.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.CopyComplete
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.pdb
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.FormByTypeSelector.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.PlaceSelectedViewsOnSheets.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.CreateLevelForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\MVVM\View\SolidView.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\MVVM\View\SolidView.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.AssemblyReference.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\bin\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\bin\Debug\DATools.pdb
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\bin\Debug\RAPWPF.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\MVVM\View\SolidView.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetExporterList.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools_MarkupCompile.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools_MarkupCompile.lref
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\MVVM\View\SolidView.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\WPFUIS\SheetExporterList.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.g.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.DATICONS.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.AddViewOnSheet.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.CreateLevelForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.FilePathForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.FormByTypeSelector.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.PlaceSelectedViewsOnSheets.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.PrintParametersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.TagSystemFamsLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.UIForm.TagWallLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.GenerateResource.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.CoreCompileInputs.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.CopyComplete
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.pdb
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\RESPALDO PLUGIN AXM\AXM MNSR\DAT\DATools\obj\Debug\DATools.csproj.AssemblyReference.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\bin\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\bin\Debug\DATools.pdb
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.csproj.AssemblyReference.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\MVVM\View\SolidView.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\SheetExporterList.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.g.cs
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools_MarkupCompile.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools_MarkupCompile.lref
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\MVVM\View\SolidView.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\PDFRenamaerPage.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\SheetExporterList.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\WPFUIS\SheetListUI.baml
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.g.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.DATICONS.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.AddViewOnSheet.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.CreateLevelForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.FilePathForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.FormByTypeSelector.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.PlaceSelectedViewsOnSheets.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.PrintParametersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.TagSystemFamsLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.UIForm.TagWallLayersForm.resources
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.csproj.GenerateResource.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.csproj.CoreCompileInputs.cache
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.csproj.CopyComplete
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.dll
+G:\Unidades compartidas\MANSUR\SURMAN PEDREGAL\01_RESIDENCIA MANSUR\01_AXM\01_MNSR_Project\01_BIM\13_AddOns\2023_AXM Plugin\DAT\DATools\obj\Debug\DATools.pdb
